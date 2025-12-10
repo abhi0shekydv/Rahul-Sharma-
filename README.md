@@ -101,4 +101,3 @@ export default function BarberBookingApp() {
     </div>
   );
 }
-<img width="720" height="1600" alt="Screenshot_20251001-200212" src="https://github.com/user-attachments/assets/d5380fca-fda6-429b-9a15-4ab4e50fb236" />
